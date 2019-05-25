@@ -1,1 +1,9 @@
 노트패드 정규식
+
+test_email >> testEmail
+test_name >> testName
+
+찾을 내용 : _([a-z])
+바꿀 내용 : \U\1
+
+
